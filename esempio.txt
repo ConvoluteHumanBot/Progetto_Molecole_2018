@@ -1,0 +1,8 @@
+Legami: 3 su 10 atomi
+Grado 0: 0 molecole
+Grado 1: 4 molecole
+Grado 2: 1 molecole
+Cluster 1: 3 molecole - 1 2 3 
+Cluster 2: 2 molecole - 4 5 
+Diametro: 2
+Costo MST: 5.754 (2 legami)
